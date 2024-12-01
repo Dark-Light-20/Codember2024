@@ -1,2 +1,3 @@
 # Codember2024
-Repo for solutions of Codember 2024 edition
+
+This repo contains the code solutions of Codember 2024 edition. Initlially the solutions are made with JavaScript.
